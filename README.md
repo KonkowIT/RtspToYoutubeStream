@@ -10,8 +10,8 @@ Script creating stream on Youtube from raw rtsp with safety board when connectio
 
 </br>
 <p align="center">
-  <b>Online</b></br>
-  <img src="https://github.com/KonkowIT/RtspToYoutubeStream/blob/main/img/online.jpg" width="600"></br></br>
-  <b>Offline</b></br>
+  <b>Online</b></br></br>
+  <img src="https://github.com/KonkowIT/RtspToYoutubeStream/blob/main/img/online.jpg" width="600"></br></br></br>
+  <b>Offline</b></br></br>
   <img src="https://github.com/KonkowIT/RtspToYoutubeStream/blob/main/img/offline.jpg" width="600"></br>
 </p>
